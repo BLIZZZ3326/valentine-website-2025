@@ -42,9 +42,9 @@ const CONFIG = {
     // Love meter messages
     // They show up depending on how far they slide the meter
     loveMessages: {
-        extreme: "AYAYAYAYAY AHORA SI CREO QUE ME PODRIAS ESTAR EMPATANDO",  // Shows when they go past 5000%
-        high: "IMPOSIBLE PERO ENTONCES POR QUE NO NO CASAMOS",              // Shows when they go past 1000%
-        normal: "ENSERIO TANTO??? PUES YO MAS JIJIIII 🥰"                  // Shows when they go past 100%
+        extreme: "AYAYAYAYAY AHORA SI CREO QUE ME PODRIAS ESTAR EMPATANDO",  // Shows when they go past 50000%
+        high: "IMPOSIBLE PERO ENTONCES POR QUE NO NO CASAMOS",              // Shows when they go past 10000%
+        normal: "ENSERIO TANTO??? PUES YO MAS JIJIIII 🥰"                  // Shows when they go past 1000%
     },
 
     // Messages that appear after they say "Yes!"
