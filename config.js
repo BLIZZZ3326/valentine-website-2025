@@ -44,13 +44,13 @@ const CONFIG = {
     loveMessages: {
         extreme: "AYAYAYAYAY AHORA SI CREO QUE ME PODRIAS ESTAR EMPATANDO",  // Shows when they go past 5000%
         high: "IMPOSIBLE PERO ENTONCES POR QUE NO NO CASAMOS",              // Shows when they go past 1000%
-        normal: "ENSERIO TANTO??? PUES YO MAS JIJIIII 🥰"                           // Shows when they go past 100%
+        normal: "ENSERIO TANTO??? PUES YO MAS JIJIIII 🥰"                  // Shows when they go past 100%
     },
 
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "JIJIIIII YO SOY LA PERSONA MAS AFORTUNADA DEL MUNDO LERO LERO",
-        message: "AHORA ESTAS SENTENCIADA A UN 14 DE FEBRERO CONMIGO, RECUERDA QUE SIEMPRE ESTOY AHI PARA TI MI AMOR, EU TE AMO",
+        message: "AHORA ESTAS SENTENCIADA A UN 14 DE FEBRERO CONMIGO RECUERDA QUE SIEMPRE ESTOY AHI PARA TI MI AMOR, EU TE AMO",
         emojis: "🎁💖🤗💝💋❤️💕"  // These will bounce around
     },
 
